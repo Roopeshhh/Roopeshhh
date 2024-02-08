@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Roopesh
+- 👋 Hi, I’m Roopesh
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
